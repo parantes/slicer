@@ -1,5 +1,7 @@
 # slicer.praat
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1453541.svg)](https://doi.org/10.5281/zenodo.1453541)
+
 Praat script to slice a long WAV file into individual small files.
 
 ## Purpose
@@ -31,6 +33,8 @@ Script file and user files don't need to be in the same file directory.
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations.
 
-## How to cite
+## Cite as
 
-Click on the DOI badge above to see instructions on how to cite the script.
+Pablo Arantes. (2018, October 9). parantes/slicer: First release (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.1453541
+
+Click on the DOI badge at the top to see more information.
